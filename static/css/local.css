@@ -1,0 +1,25 @@
+/**** CSS *****/
+body {
+	background: ;
+	font-family: sans-serif;
+}
+
+.container {
+	max-width: 1000px;
+	margin: 0 auto;
+}
+
+input {
+	margin: 2px 0;
+}
+
+#display-friends .decision {
+	display:  inline-block;
+	margin: 10px;
+	background: blue;
+	color: white;
+	text-transform:  uppercase;
+	text-decoration: none;
+	padding: 5px 10px;
+	border-radius: 5px 10px ;
+}
